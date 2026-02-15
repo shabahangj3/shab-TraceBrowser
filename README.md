@@ -92,7 +92,7 @@ Contributions are welcome via pull requests on GitHub. Suggested contribution wo
 
 ## License
 
-
+Copyright © 2026 shabahang.j - All Rights Reserved
 Maintained by shabahang.j
 
 Contributions are welcome via pull requests on GitHub.
